@@ -1,6 +1,7 @@
-/* usare lolcolors; font */
+/* usare lolcolors; font, favicon */
 
 body {
+    font-family: 'Roboto';
     background-color: #34314c;
     margin: 0px;
 }
@@ -17,6 +18,13 @@ a {
     width: 70vw;
     max-width: 500px;
     min-width: 350px;
+}
+
+.fas, .fab {
+    font-family: 'FontAwesome';
+    font-style: normal;
+    width: 1.2em;
+    display: inline-block;
 }
 
 .picture {
