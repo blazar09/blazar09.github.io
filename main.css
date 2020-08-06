@@ -1,0 +1,35 @@
+/* usare lolcolors; font */
+
+body {
+    background-color: #34314c;
+}
+
+.card {
+    background-color: #47b8e0;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    width: 70vw;
+    max-width: 500px;
+    min-width: 350px;
+}
+
+.picture {
+    width: 5rem;
+    height: auto;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto 20px;
+    border: 2px solid #ff7473;
+}
+
+header {
+    white-space: nowrap;
+    padding-bottom: 12px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
