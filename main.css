@@ -1,4 +1,13 @@
-/* usare lolcolors; font, favicon */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0; 
+    outline: 0;
+  }
+
+:link,:visited { 
+    text-decoration: none; 
+}
 
 body {
     font-family: 'Roboto';
